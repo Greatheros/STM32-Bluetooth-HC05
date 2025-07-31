@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "limits": "c",
+        "memory": "c",
+        "stm32f10x.h": "c",
+        "stdio.h": "c",
+        "stdarg.h": "c",
+        "serial.h": "c",
+        "string.h": "c",
+        "delay.h": "c",
+        "string": "c"
+    }
+}
